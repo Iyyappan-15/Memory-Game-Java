@@ -39,5 +39,8 @@ The game continues until all pairs are matched.
 
 1. Make sure Java is installed on your system.
 2. Compile the program:
-   ```bash
+   ```
    javac Hello.java
+3.Run the program:
+   ```
+   java Hello
