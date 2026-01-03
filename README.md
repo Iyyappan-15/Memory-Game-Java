@@ -16,19 +16,19 @@ During each turn, the player selects two card positions:
 
 The game continues until all card pairs are successfully matched, at which point the player wins.
 
-✨ Features
+✨ Features :
 
-🎮 Interactive console-based gameplay
+🎮 Interactive console-based gameplay.
 
-🔀 Randomized card placement using Java Collections
+🔀 Randomized card placement using Java Collections.
 
-🛡️ Robust input validation for user selections
+🛡️ Robust input validation for user selections.
 
-🧩 Clear and beginner-friendly game logic
+🧩 Clear and beginner-friendly game logic.
 
-📊 Clean console output for easy readability
+📊 Clean console output for easy readability.
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 
 Java
 
@@ -46,21 +46,18 @@ Ensure Java (JDK) is installed on your system.
 
 Compile the program:
 
-javac Hello.java
-
+    javac Hello.java
 
 Run the program:
 
-java Hello
+    java Hello
 
-🎯 Learning Outcomes
+🎯 Learning Outcomes :
 
-By working on this project, you will gain practical experience with:
+Java collections and arrays.
 
-Java collections and arrays
+Looping and conditional logic.
 
-Looping and conditional logic
+User input handling and validation.
 
-User input handling and validation
-
-Basic game logic and flow control
+Basic game logic and flow control.
