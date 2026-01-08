@@ -46,11 +46,11 @@ Ensure Java (JDK) is installed on your system.
 
 Compile the program:
 
-    javac Hello.java
+    javac MemoryGame.java
 
 Run the program:
 
-    java Hello
+    java MemoryGame
 
 🎯 Learning Outcomes :
 
