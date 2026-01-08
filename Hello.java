@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Hello {
+public class MemoryGame {
 
     public static void main(String[] args) {
 
@@ -83,3 +83,4 @@ public class Hello {
         System.out.println("|");
     }
 }
+
