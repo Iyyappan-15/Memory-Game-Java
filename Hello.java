@@ -84,3 +84,5 @@ public class MemoryGame {
     }
 }
 
+System.out.println("New Fork");
+
